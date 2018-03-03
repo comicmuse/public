@@ -5,7 +5,7 @@
   "author": "David Kaltschmidt",
   "repository": "https://github.com/kausalco/public",
   "bugs": "https://github.com/kausalco/public/issues",
-  "proxy": "http://localhost:9090",
+  "proxy": "http://prometheus:9090",
   "dependencies": {
     "immutable": "^3.8.2",
     "prismjs": "^1.6.0",
